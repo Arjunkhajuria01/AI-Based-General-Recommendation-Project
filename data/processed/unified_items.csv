@@ -1,0 +1,61 @@
+item_id,title,category,tags,cost,time,domain,content,cost_norm,time_norm
+M001,the dark knight,action,batman superhero crime thriller dark,0.0,1.7,movie,the dark knight action action batman superhero crime thriller dark,0.0,0.0026246719160104987
+M002,inception,scifi,dream timeloop mindwarp thriller scifi,0.0,2.0,movie,inception scifi scifi dream timeloop mindwarp thriller scifi,0.0,0.010498687664041995
+M003,interstellar,scifi,space time blackhole epic science,0.0,2.8,movie,interstellar scifi scifi space time blackhole epic science,0.0,0.031496062992125984
+M004,the shawshank redemption,drama,prison freedom hope inspirational drama,0.0,2.7,movie,the shawshank redemption drama drama prison freedom hope inspirational drama,0.0,0.028871391076115485
+M005,forrest gump,drama,life journey history love inspirational,0.0,2.3,movie,forrest gump drama drama life journey history love inspirational,0.0,0.018372703412073484
+M006,the avengers,action,superhero marvel team action adventure,0.0,2.5,movie,the avengers action action superhero marvel team action adventure,0.0,0.023622047244094488
+M007,titanic,romance,love ship tragedy history romance,0.0,2.1,movie,titanic romance romance love ship tragedy history romance,0.0,0.013123359580052493
+M008,the godfather,crime,mafia family crime power classic,0.0,2.2,movie,the godfather crime crime mafia family crime power classic,0.0,0.015748031496063
+M009,pulp fiction,crime,violence dialogue nonlinear crime cult,0.0,2.1,movie,pulp fiction crime crime violence dialogue nonlinear crime cult,0.0,0.013123359580052493
+M010,schindler's list,history,war holocaust survival history drama,0.0,2.7,movie,schindler's list history history war holocaust survival history drama,0.0,0.028871391076115485
+M011,the matrix,scifi,simulation reality hacker cyberpunk action,0.0,2.9,movie,the matrix scifi scifi simulation reality hacker cyberpunk action,0.0,0.03412073490813648
+M012,goodfellas,crime,gangster mafia true story crime drama,0.0,2.5,movie,goodfellas crime crime gangster mafia true story crime drama,0.0,0.023622047244094488
+M013,fight club,thriller,identity violence twist dark psychological,0.0,3.0,movie,fight club thriller thriller identity violence twist dark psychological,0.0,0.03674540682414698
+M014,the silence of the lambs,thriller,serial killer psychology fbi horror thriller,0.0,2.5,movie,the silence of the lambs thriller thriller serial killer psychology fbi horror thriller,0.0,0.023622047244094488
+M015,spirited away,animation,fantasy anime journey magic adventure,0.0,2.8,movie,spirited away animation animation fantasy anime journey magic adventure,0.0,0.031496062992125984
+M016,parasite,drama,class society dark twist korean drama,0.0,2.5,movie,parasite drama drama class society dark twist korean drama,0.0,0.023622047244094488
+M017,joker,drama,villain mental health dark society origin,0.0,2.9,movie,joker drama drama villain mental health dark society origin,0.0,0.03412073490813648
+M018,mad max: fury road,action,postapocalyptic action chase survival,0.0,2.5,movie,mad max: fury road action action postapocalyptic action chase survival,0.0,0.023622047244094488
+M019,whiplash,drama,music ambition perfectionism jazz intense,0.0,2.2,movie,whiplash drama drama music ambition perfectionism jazz intense,0.0,0.015748031496063
+M020,la la land,romance,music dreams love jazz romance musical,0.0,2.0,movie,la la land romance romance music dreams love jazz romance musical,0.0,0.010498687664041995
+M021,get out,horror,race psychology horror social commentary thriller,0.0,2.2,movie,get out horror horror race psychology horror social commentary thriller,0.0,0.015748031496063
+M022,a beautiful mind,drama,math genius mental illness biography drama,0.0,1.9,movie,a beautiful mind drama drama math genius mental illness biography drama,0.0,0.007874015748031496
+M023,the social network,drama,startup tech ambition betrayal biography,0.0,1.7,movie,the social network drama drama startup tech ambition betrayal biography,0.0,0.0026246719160104987
+M024,her,romance,ai future love loneliness technology,0.0,2.7,movie,her romance romance ai future love loneliness technology,0.0,0.028871391076115485
+M025,arrival,scifi,aliens language time communication scifi,0.0,1.9,movie,arrival scifi scifi aliens language time communication scifi,0.0,0.007874015748031496
+M026,1917,history,war worldwar mission history drama,0.0,2.9,movie,1917 history history war worldwar mission history drama,0.0,0.03412073490813648
+M027,dunkirk,history,war evacuation survival history action,0.0,1.6,movie,dunkirk history history war evacuation survival history action,0.0,0.0
+M028,blade runner 2049,scifi,ai replicant future noir scifi,0.0,2.8,movie,blade runner 2049 scifi scifi ai replicant future noir scifi,0.0,0.031496062992125984
+M029,the prestige,thriller,magic rivalry obsession twist mystery,0.0,2.8,movie,the prestige thriller thriller magic rivalry obsession twist mystery,0.0,0.031496062992125984
+M030,memento,thriller,memory nonlinear mystery dark psychological,0.0,2.3,movie,memento thriller thriller memory nonlinear mystery dark psychological,0.0,0.018372703412073484
+C001,python for beginners,programming,python basics syntax loops beginner,9.99,15.2,course,python for beginners programming programming python basics syntax loops beginner,0.09990999099909992,0.3569553805774278
+C002,machine learning a z,ai,ml supervised unsupervised sklearn python,9.99,24.7,course,machine learning a z ai ai ml supervised unsupervised sklearn python,0.09990999099909992,0.6062992125984251
+C003,deep learning specialization,ai,neural networks deep learning tensorflow,0.0,29.3,course,deep learning specialization ai ai neural networks deep learning tensorflow,0.0,0.7270341207349081
+C004,web development bootcamp,web,html css javascript fullstack bootcamp,0.0,37.7,course,web development bootcamp web web html css javascript fullstack bootcamp,0.0,0.9475065616797901
+C005,data science with python,datascience,pandas numpy visualization statistics python,9.99,7.0,course,data science with python datascience datascience pandas numpy visualization statistics python,0.09990999099909992,0.14173228346456693
+C006,react js complete guide,web,react frontend javascript components hooks,49.99,36.9,course,react js complete guide web web react frontend javascript components hooks,0.4999499949995,0.926509186351706
+C007,sql mastery,database,sql database queries joins relational,9.99,5.1,course,sql mastery database database sql database queries joins relational,0.09990999099909992,0.09186351706036744
+C008,docker & kubernetes,devops,containers kubernetes deployment devops cloud,9.99,32.8,course,docker & kubernetes devops devops containers kubernetes deployment devops cloud,0.09990999099909992,0.8188976377952755
+C009,nlp with python,ai,nlp text processing transformers python,9.99,31.4,course,nlp with python ai ai nlp text processing transformers python,0.09990999099909992,0.7821522309711285
+C010,computer vision with opencv,ai,opencv image detection recognition python,19.99,23.5,course,computer vision with opencv ai ai opencv image detection recognition python,0.1999199919991999,0.5748031496062992
+C011,django rest api,web,django api backend python rest,19.99,29.6,course,django rest api web web django api backend python rest,0.1999199919991999,0.7349081364829396
+C012,aws cloud practitioner,cloud,aws cloud services infrastructure devops,9.99,39.7,course,aws cloud practitioner cloud cloud aws cloud services infrastructure devops,0.09990999099909992,1.0
+C013,linear algebra for ml,math,linear algebra matrix vectors mathematics,19.99,14.0,course,linear algebra for ml math math linear algebra matrix vectors mathematics,0.1999199919991999,0.32545931758530183
+C014,statistics for data science,math,statistics probability distributions inference,9.99,31.7,course,statistics for data science math math statistics probability distributions inference,0.09990999099909992,0.7900262467191601
+C015,git & github masterclass,devops,git version control github collaboration,9.99,16.9,course,git & github masterclass devops devops git version control github collaboration,0.09990999099909992,0.40157480314960625
+C016,javascript algorithms,programming,javascript algorithms data structures interview,19.99,33.7,course,javascript algorithms programming programming javascript algorithms data structures interview,0.1999199919991999,0.8425196850393701
+C017,flask microservices,web,flask microservices api python backend,0.0,33.3,course,flask microservices web web flask microservices api python backend,0.0,0.832020997375328
+C018,tableau for beginners,datascience,tableau visualization business dashboard,49.99,16.4,course,tableau for beginners datascience datascience tableau visualization business dashboard,0.4999499949995,0.38845144356955374
+C019,ethical hacking,security,cybersecurity hacking penetration kali linux,19.99,22.7,course,ethical hacking security security cybersecurity hacking penetration kali linux,0.1999199919991999,0.5538057742782152
+C020,blockchain fundamentals,blockchain,blockchain crypto ethereum smart contracts,19.99,6.3,course,blockchain fundamentals blockchain blockchain blockchain crypto ethereum smart contracts,0.1999199919991999,0.12335958005249342
+C021,ios development with swift,mobile,swift ios apple xcode mobile apps,0.0,14.4,course,ios development with swift mobile mobile swift ios apple xcode mobile apps,0.0,0.3359580052493438
+C022,android development,mobile,android kotlin java mobile apps,99.99,8.2,course,android development mobile mobile android kotlin java mobile apps,1.0,0.17322834645669288
+C023,excel for data analysis,datascience,excel pivot charts formulas data,99.99,23.0,course,excel for data analysis datascience datascience excel pivot charts formulas data,1.0,0.5616797900262467
+C024,tensorflow lite for mobile,ai,tensorflow mobile edge ai deployment,9.99,35.7,course,tensorflow lite for mobile ai ai tensorflow mobile edge ai deployment,0.09990999099909992,0.8950131233595802
+C025,pandas complete tutorial,datascience,pandas dataframe data wrangling python,49.99,14.6,course,pandas complete tutorial datascience datascience pandas dataframe data wrangling python,0.4999499949995,0.3412073490813648
+C026,agile & scrum masterclass,management,agile scrum project management sprints,9.99,23.2,course,agile & scrum masterclass management management agile scrum project management sprints,0.09990999099909992,0.5669291338582677
+C027,cyber security fundamentals,security,security firewall protocols network threats,9.99,19.1,course,cyber security fundamentals security security security firewall protocols network threats,0.09990999099909992,0.4593175853018373
+C028,power bi dashboard,datascience,powerbi visualization reports dashboard,99.99,12.8,course,power bi dashboard datascience datascience powerbi visualization reports dashboard,1.0,0.29396325459317585
+C029,c++ for game development,programming,cpp game dev opengl rendering engine,0.0,15.5,course,c++ for game development programming programming cpp game dev opengl rendering engine,0.0,0.3648293963254593
+C030,unity 3d game design,programming,unity 3d game design csharp,0.0,15.4,course,unity 3d game design programming programming unity 3d game design csharp,0.0,0.36220472440944884

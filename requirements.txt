@@ -1,0 +1,16 @@
+# ─────────────────────────────────────────────
+# Hybrid Recommendation System — Dependencies
+# ─────────────────────────────────────────────
+
+# Core data science libraries
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Machine learning (TF-IDF, KNN, cosine similarity, scaling)
+scikit-learn>=1.2.0
+
+# Web application UI
+streamlit>=1.28.0
+
+# Interactive visualizations
+plotly>=5.15.0
